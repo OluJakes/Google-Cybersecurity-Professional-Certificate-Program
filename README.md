@@ -1,4 +1,6 @@
 
+-----
+# Olumide Solanke
 
 # Professional Statement
 
@@ -52,7 +54,7 @@ This portfolio demonstrates my capability to:
 - Identify and understand various cyber threats and vulnerabilities
 - Utilize common cybersecurity tools
 - Thrive in technical environments
-
+---
 ## Career Aspirations
 
 I am actively seeking an entry-level cybersecurity analyst position where I can contribute my expertise while learning from experienced professionals in the field. I am eager to make a meaningful impact and continue advancing in this dynamic and crucial industry.
