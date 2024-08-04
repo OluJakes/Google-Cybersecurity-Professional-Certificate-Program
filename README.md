@@ -2,6 +2,8 @@
 
 # Professional Statement - Cybersecurity
 Olumide Solanke
+---
+
 
 I am a highly motivated individual with a growing passion for cybersecurity. My commitment lies in developing the skills needed to protect organizations and ensure the confidentiality, integrity, and availability (CIA triad) of their data.
 
